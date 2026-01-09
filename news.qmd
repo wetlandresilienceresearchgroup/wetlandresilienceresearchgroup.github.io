@@ -1,0 +1,24 @@
+---
+title: "News"
+---
+*December 2025*
+
+The **Tracking the Colour of Peatlands** project won the 2025 *Nobel Peat Prize for Best Outreach/Network*
+
+![](./images/Image_4.jpg){fig-align="center"}
+
+*October 2025*
+
+I wrote this article with Avni Malhotra (PNNL/University of Zurich) for The Conversation as part of the PeatColours project, which uses technology and global collaboration to improve understanding of peatlands.
+
+<a href="https://theconversation.com/harnessing-technology-and-global-collaboration-to-understand-peatlands-265472" target="_blank" rel="noopener">
+  Harnessing technology and global collaboration to understand peatlands
+</a>
+
+*February 2024*
+
+The University of Plymouth featured the Tracking the Colour of Peatlands project here:
+
+<a href="https://https://www.plymouth.ac.uk/news/citizen-science-project-tracks-the-health-of-planets-peatlands" target="_blank" rel="noopener">
+  Citizen science project tracks the health of planet’s peatlands
+</a>

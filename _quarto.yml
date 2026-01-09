@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: https://peatcolours.github.io
+  favicon: "images/logos/Tracking the colour of peatlands.png"
+  navbar:
+    logo: "images/logos/Tracking the colour of peatlands.png"
+    left:
+      - index.qmd
+      - tracking.qmd
+      - peatpic.qmd
+      - quebec.qmd
+      - news.qmd
+      - contact.qmd
+      
+
+    right:
+      - icon: github
+        href: https://github.com/PeatColours
+        aria-label: PeatColours GitHub
+        
+  sidebar:
+    - id: home
+      title: "Home"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: index.qmd
+          text: Home
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+
+
+# babelquarto:
+  # languagecodes:
+  # - name: fr
+    # text: "Français"
+  # - name: en
+    # text: "English"
+  # mainlanguage: 'en'
+  # languages: ['fr']
+# description-en: description in en
+# author-en: author in en
+# lang: en
