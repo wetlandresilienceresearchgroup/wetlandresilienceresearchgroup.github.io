@@ -3,24 +3,19 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://peatcolours.github.io
+  site-url: https://wetlandresilienceresearchgroup.github.io
   favicon: "images/logos/Tracking the colour of peatlands.png"
   navbar:
     logo: "images/logos/Tracking the colour of peatlands.png"
     left:
       - index.qmd
-      - tracking.qmd
-      - peatpic.qmd
-      - quebec.qmd
-      - news.qmd
-      - contact.qmd
+      - Research.qmd
+      - People.qmd
+      - Publications.qmd
+      - News.qmd
+      - Opportunities.qmd
+      - Contact.qmd
       
-
-    right:
-      - icon: github
-        href: https://github.com/PeatColours
-        aria-label: PeatColours GitHub
-        
   sidebar:
     - id: home
       title: "Home"
@@ -38,8 +33,6 @@ format:
       - custom.scss
     css: styles.css
     toc: true
-
-
 
 
 # babelquarto:
