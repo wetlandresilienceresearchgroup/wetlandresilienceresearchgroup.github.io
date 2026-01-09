@@ -1,17 +1,67 @@
 ---
 title: "People"
+execute:
+  eval: false
 template-partials:
   - title-block.html
 ---
+::: {.columns .person-row}
+::: {.column width="22%"}
+![](images/photo.jpeg){.person-photo alt="Scott J. Davidson"}
+:::
 
-# What is peatland green leaf phenology?
+::: {.column width="78%"}
+## Scott J. Davidson, PhD
 
-Plant phenology refers to the study of the timing and seasonal changes in plants' life cycle events. It involves observing and recording when plants bud, leaf out (become 'green'), flower, and fruit, as well as when they shed leaves or go dormant (turn brown).
+Scott is an Assistant Professor in Wetland Carbon Dynamics in the Département des sciences biologiques at the Université du Québec à Montréal (UQAM). He completed his undergraduate degree in Geography at the University of Dundee, UK in 2012 and his MSc in Polar and Alpine Change at the University of Sheffield, UK in 2013. In 2017 he was awarded his PhD from the University of Sheffield, UK, looking at greenhouse gas emissions from arctic tundra landscapes in Alaska. He was a Lecturer in Ecosystem Resilience at the University of Plymouth between August 2021 and May 2025.
 
-![](./images/Image_3.png){fig-align="center"}
-The phenology of leaf traits (or green leaf phenology e.g., greenness, timing of leaf-out and senescence) are important drivers of terrestrial carbon cycling.
+His research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. His research combines field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems. He has nearly a decade’s experience working in northern latitude ecosystems in both Europe and North America. Since 2016, he has published >45 publications in a variety of high impact journals with >1500 citations to date. He is also an Adjunct Associate Professor at La Trobe University, Australia. He is a co-founder of both the Wet Woodland Research Network and PEAT: Peatland ECR Action Team, which connects early career peatland scientists globally to develop a diverse, inclusive, and supportive research community and is currently the co-Chair of the British Ecological Society’s Peatlands and Wetlands Special Interest Group.
+:::
+:::
 
-We can use smartphone red-green-blue (RGB) photos to understand how these plants 'green up' over the summer, the timing of when they hit their maximum greenness and how they start to turn brown in the autumn.
+## Lead Supervision
 
-![](./images/Image_1.png){fig-align="center"}
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Emma_Duley.png){.student-photo fig-alt="Emma Duley"}
+
+<div class="student-name">Emma Duley</div>
+
+<div class="student-degree">PhD Student</div>
+
+<div class="student-project">
+Understanding ecosystem dynamics in peat-forming temperate wet woodlands
+</div>
+
+<div class="student-meta">
+ARIES DTP Studentship (2023–2027)
+</div>
+
+<div class="student-meta">
+Co-supervisors: Dr Alice Milner (RHUL), Dr Tom Roland (University of Exeter), Dr Jessie Woodbridge (University of Plymouth), Dr Angie Milne (University of Plymouth)
+</div>
+:::
+
+::: {.student-card}
+![](images/Fred_Turmel.png){.student-photo fig-alt="Frédérique Turmel"}
+
+<div class="student-name">Frédérique Turmel </div>
+
+<div class="student-degree">MSc Student</div>
+
+<div class="student-project">
+Carbon stocks and fluxes of the Barachois de Malbaie salt marsh in Gaspésie, Eastern Canada
+</div>
+
+<div class="student-meta">
+MITACS funded (2024-2026)
+</div>
+
+<div class="student-meta">
+Co-supervisors: Dr Michelle Garneau (UQAM)
+</div>
+:::
+
+:::
 

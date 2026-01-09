@@ -6,15 +6,19 @@ template-partials:
 
 # **Publications**
 
-You can check out the WRRG's Google Scholar profile, ResearchGate profile, ORCiD profile and WoS ResearcherID profile at these links.
+You can check out the WRRG's profiles here:
 
-If you cannot access any of the papers below, feel free to email Scott at davidson.scott_j@uqam.cacd and he shall send you the PDF
+- [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=pRZJ1kMAAAAJ&view_op=list_works&sortby=pubdate)
+- [ResearchGate profile](https://www.researchgate.net/profile/Scott-Davidson-9?ev=hdr_xprf)
+- [ORCiD profile](https://orcid.org/0000-0001-8327-2121)
+
+If you cannot access any of the papers below, feel free to email Scott at davidson.scott_j [at] uqam.ca and he shall send you the PDF
 
 **2025**
 
-Girkin, N., Cooper, H., **Davidson**, S.J. and Gauci, V. (2025). **Plant controls over tropical wetland nitrous oxide dynamics: a review.** *Tropical Ecology*, 66: 550-558. [DOI: 10.1007/s42965-025-00407-7](https://doi.org/10.1007/s42965-025-00407-7)
+Girkin, N., Cooper, H., **Davidson, S.J.** and Gauci, V. (2025). **Plant controls over tropical wetland nitrous oxide dynamics: a review.** *Tropical Ecology*, 66: 550-558. [DOI: 10.1007/s42965-025-00407-7](https://doi.org/10.1007/s42965-025-00407-7)
 
-Hashemi, J., Räsänen, A., Virtanen, T., Juutinen, S., Grosse, G., Aurela, M., Bartsch, A., Chasmer, L., **Davidson**, S.J., Korkiakoski, M., Kuhn, M.A., Lara, M.J., Luoto, M., Niittynen, P., Olefeldt, D., Sonnentag, O., Virkkala, A-M., Voigt, C. and Treat, C. (2025). **Coarse land cover datasets bias Arctic-Boreal wetland methane budgets.** *Communications Earth & Environment* [DOI: 10.1038/s43247-025-02963-1](https://doi.org/10.1038/s43247-025-02963-1)
+Hashemi, J., Räsänen, A., Virtanen, T., Juutinen, S., Grosse, G., Aurela, M., Bartsch, A., Chasmer, L., **Davidson, S.J.**, Korkiakoski, M., Kuhn, M.A., Lara, M.J., Luoto, M., Niittynen, P., Olefeldt, D., Sonnentag, O., Virkkala, A-M., Voigt, C. and Treat, C. (2025). **Coarse land cover datasets bias Arctic-Boreal wetland methane budgets.** *Communications Earth & Environment* [DOI: 10.1038/s43247-025-02963-1](https://doi.org/10.1038/s43247-025-02963-1)
 
 Ivison, K., Little, K., Belcher, C.M., Crawford, A.J., **Davidson, S.J.**, Graham, L.J. and Kettridge, N. (2025). **Citizen science as a tool to investigate landscape controls on fuel moisture and flammability.** *Journal of Pyrogeography* [DOI: 10.1016/j.pyro.2025.100002](https://doi.org/10.1016/j.pyro.2025.100002)
 

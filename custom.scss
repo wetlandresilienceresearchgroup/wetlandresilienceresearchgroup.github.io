@@ -15,3 +15,106 @@ $primary: #B56B33;
 
 //Navs
 
+/* =========================================================
+   Square headshot – force size at the figure level
+   ========================================================= */
+
+/* Force the container to be square */
+.person-row .person-photo,
+.person-row figure.person-photo {
+  width: 260px;
+  height: 260px;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Force the image to fill the square */
+.person-row .person-photo img,
+.person-row img.person-photo,
+.person-row figure.person-photo img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  object-position: 50% 20%;
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  display: block;
+}
+
+
+/* =========================================================
+   Student grid (3 per row)
+   ========================================================= */
+
+.student-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+/* Individual student card */
+.student-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Student photo (circular) */
+.student-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 30%;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  margin-bottom: 1rem;
+}
+
+/* Student name */
+.student-name {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+/* Degree type (PhD / MSc / MRes) */
+.student-degree {
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  opacity: 0.85;
+}
+
+/* Project title */
+.student-project {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 0.75rem;
+}
+
+/* Funding / dates */
+.student-meta {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+/* Responsive behaviour */
+@media (max-width: 1000px) {
+  .student-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .student-grid {
+    grid-template-columns: 1fr;
+  }
+}
