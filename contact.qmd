@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Contact"
 template-partials:
   - title-block.html
 ---
