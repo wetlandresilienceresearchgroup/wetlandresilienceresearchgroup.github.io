@@ -16,16 +16,6 @@ website:
       - Opportunities.qmd
       - Contact.qmd
       
-  sidebar:
-    - id: home
-      title: "Home"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - href: index.qmd
-          text: Home
-
 format:
   html:
     theme:
