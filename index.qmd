@@ -4,17 +4,31 @@ template-partials:
   - title-block.html
 ---
 
-## Research in the Wetland Resilience Research Group
-XXX
+![](images/peatland_home_page.jpg)
 
-**Response, recovery and resilience of wetlands to climate and land-use change**
+## Research in the Wetland Resilience Research Group
+Our research sits at the intersection of ecology, environmental change, and ecosystem resilience, with a particular focus on peatlands and other wetland systems. We aim to understand how historical land use, climate change, and contemporary human pressures shape the structure, function, and recovery of these ecosystems. 
+
+By integrating field observations, long-term monitoring, and experimental approaches, our work explores how wetlands and peatlands respond to disturbance, how key processes such as carbon storage, hydrology, and vegetation dynamics are altered, and which mechanisms underpin resilience or collapse. Ultimately, this research seeks to identify the pathways through which wetlands can be protected, restored, and managed to sustain carbon sequestration, biodiversity and ecosystem services in a rapidly changing world.
+
+**Response, recovery and resilience of wetlands to climate and land-use change**<br>
+<div style="display:flex; gap:20px; justify-content:left;">
+  <img src="images/fire_home_page.JPG" width="350">
+  <img src="images/fire_2_home_page.JPG" width="350">
+</div>
+
 XXX
 
 
 **Wetlands and community science**
 XXX
 
-**Scott J. Davidson, Assistant Professor in Wetland Carbon Dynamics**
-141 Avenue President Kennedy, Département des sciences biologiques
-Université du Québec à Montréal, Montréal QC Canada  H2X 1Y4
-davidson.scott_j(at)uqam.ca
+**Scott J. Davidson, PhD**<br>
+**Assistant Professor in Wetland Carbon Dynamics**<br>
+141 Avenue President Kennedy<br> 
+Département des sciences biologiques<br>
+Université du Québec à Montréal<br>
+Montréal QC<br>
+Canada<br> 
+H2X 1Y4<br>
+Email: davidson.scott_j(at)uqam.ca<br>

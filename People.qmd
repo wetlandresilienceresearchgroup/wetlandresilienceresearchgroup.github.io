@@ -38,9 +38,6 @@ Understanding ecosystem dynamics in peat-forming temperate wet woodlands
 ARIES DTP Studentship (2023–2027)
 </div>
 
-<div class="student-meta">
-Co-supervisors: Dr Alice Milner (RHUL), Dr Tom Roland (University of Exeter), Dr Jessie Woodbridge (University of Plymouth), Dr Angie Milne (University of Plymouth)
-</div>
 :::
 
 ::: {.student-card}
@@ -59,9 +56,177 @@ MITACS funded (2024-2026)
 </div>
 
 <div class="student-meta">
-Co-supervisors: Dr Michelle Garneau (UQAM)
+Co-supervisor: Dr Michelle Garneau (UQAM)
+</div>
+:::
+:::
+
+## Co-supervision
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Emily_Simpson.png){.student-photo fig-alt="Emily Simpson"}
+
+<div class="student-name">Emily Simpson</div>
+
+<div class="student-degree">PhD Student</div>
+
+<div class="student-project">
+Beavers and climate change mitigation in freshwater systems
+</div>
+
+<div class="student-meta">
+IAPETUS DTP Studentship (2023–2027)
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Alan Law (University of Stirling)
 </div>
 :::
 
+::: {.student-card}
+![](images/Izadora_Kervin.png){.student-photo fig-alt="Izadora Kervin"}
+
+<div class="student-name">Izadora Kervin</div>
+
+<div class="student-degree">PhD Student</div>
+
+<div class="student-project">
+Developing capacity in ex situ conservation for threatened bryophytes
+</div>
+
+<div class="student-meta">
+2023-2029 (part-time)
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Jennifer Rowntree (University of Plymouth)
+</div>
+::: 
+
+::: {.student-card}
+![](images/Crystal_Ahiable.png){.student-photo fig-alt="Crystal Ahiable"}
+
+<div class="student-name">Crystal Ahiable</div>
+
+<div class="student-degree">PhD Student</div>
+
+<div class="student-project">
+The forgotten forests: understanding the future of wet woodlands as carbon-dense ecosystems
+</div>
+
+<div class="student-meta">
+2023-2027
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Alice Milner (RHUL)
+</div>
 :::
+
+::: {.student-card}
+![](images/Dylan_Oliver.png){.student-photo fig-alt="Dylan Oliver"}
+
+<div class="student-name">Dylan Oliver</div>
+
+<div class="student-degree">PhD Student</div>
+
+<div class="student-project">
+Maximising ecosystem service provision from wet woodlands for policy and practice
+</div>
+
+<div class="student-meta">
+2025-2029
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Alice Milner (RHUL)
+</div>
+:::
+
+::: {.student-card}
+![](images/Justin_Yu.png){.student-photo fig-alt="Justin Yu"}
+
+<div class="student-name">Justin Yu</div>
+
+<div class="student-degree">MSc Student</div>
+
+<div class="student-project">
+Building a baseline of carbon stocks in boreal swamps in Alberta, Canada
+</div>
+
+<div class="student-meta">
+2024-2026
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Maria Strack (University of Waterloo)
+</div>
+:::
+
+::: {.student-card}
+![](images/Elly_Longley.png){.student-photo fig-alt="Elly Longley"}
+
+<div class="student-name">Elly Longley</div>
+
+<div class="student-degree">MSc Student</div>
+
+<div class="student-project">
+Carbon fluxes from intact and disturbed alpine peatlands (wildfire) across the Bogong High Plains, Australia
+</div>
+
+<div class="student-meta">
+2025-2027
+</div>
+
+<div class="student-meta">
+Lead supervisor: Dr Aleicia Holland (La Trobe University)
+</div>
+::: 
+:::
+
+## Technical Staff
+
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Leonie_Perrier.png){.student-photo fig-alt="Léonie Perrier"}
+<div class="student-name">Léonie Perrier</div>
+
+<div class="student-project">
+Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dans les milieux humides comme solution naturelle aux changements climatiques (CARCLIQUE)
+
+Research coordinator of the Quebec Research Chair on the study of carbon in wetlands as a natural solution to climate change (CARCLIQUE)</div>
+:::
+:::
+
+## Completed students
+
+*PhD students*
+
+**Natasha Underwood** PhD (2021-2024) (University of Plymouth) Ecological and biogeochemical benefits of environmental enhancements at Moorlinch on the Somerset Levels
+
+*MSc students*
+
+**Oscar Kemble** ResM (2024-2025) (University of Plymouth) – Evaluating progress towards blanket bog vegetation restoration
+
+**Meg Schmidt** MSc (2019-2021) (University of Waterloo) – Impacts of seismic line restoration on CO2 and CH4 fluxes and vegetation biomass
+
+**Rosie Oliver** MSc (2021-2022) (University of Plymouth) – Soil P indices in the Somerset Levels and Moors: a technical evaluation of their value in predicting environmental pollution risk
+
+**Jamie Huntriss** MSc (2022-2023) (University of Plymouth) – An analysis of wet woodland carbon stocks based on peat core samples: a study of Slapton Ley wet woodland
+
+**Caitlin Richards** MSc (2022-2023) (University of Plymouth) – Environmental controls on CO2 exchange in a wet woodland in South Devon and the implications of a changing climate
+
+**Robert Jones** MSc (2022-2023) (University of Plymouth) – Understanding the susceptibility to and recovery from wildfire in peatlands using remote sensing
+
+**Eleanor Wiltshire** MSc (2022-2023) (University of Plymouth) – Assessing the impacts of nitrate and ammonium on water quality in five Devon rivers between 2020 – 2022
+
+**Archie Mortimer** MSc (2023-2024) (University of Plymouth) – Assessing the belowground carbon stocks of nationally scarce bog woodland in Scotland
+
+**Jill Ashley** MSc (2023-2024) (University of Plymouth) – An investigation of the green leaf phenology of a canopy in Bobiri Forest, a semi-deciduous tropical forest in West Africa
+
+*Undergraduate research assistants*
+
+**Billy Fullwood** (June – August 2024) (University of Plymouth) – ARIES Research Experience Placement: Using dendrochronology to understand climate and land-use pressures on wet woodland ecosystem
 
