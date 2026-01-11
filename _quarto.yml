@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - _static/CNAME
+    - CNAME
 
 website:
   site-url: "https://wetlandresilienceresearchgroup.com"
