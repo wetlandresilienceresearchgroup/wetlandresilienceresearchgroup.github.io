@@ -6,7 +6,7 @@ template-partials:
 
 ![](images/peatland_home_page.jpg)
 
-## Research in the Wetland Resilience Research Group
+## The Wetland Resilience Research Group
 Our research sits at the intersection of ecology, environmental change, and ecosystem resilience, with a particular focus on peatlands and other wetland systems. We aim to understand how historical land use, climate change, and contemporary human pressures shape the structure, function, and recovery of these ecosystems. 
 
 By integrating field observations, long-term monitoring, and experimental approaches, our work explores how wetlands and peatlands respond to disturbance, how key processes such as carbon storage, hydrology, and vegetation dynamics are altered, and which mechanisms underpin resilience or collapse. 

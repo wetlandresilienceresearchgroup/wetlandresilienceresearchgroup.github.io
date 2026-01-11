@@ -29,7 +29,29 @@ His research is focused on the resilience of peatland and wetland ecosystems to 
          alt="LinkedIn"
          style="height:36px; width:auto;">
   </a>
+  
+  <a href="https://www.wetwoodlands.com/"
+     target="_blank" rel="noopener">
+    <img src="images/WWRN_LogoLong.webp"
+         alt="WWRN"
+         style="height:50px;">
+  </a>
+
+  <a href="https://peatecr.com/"
+     target="_blank" rel="noopener">
+    <img src="images/peatecr.png"
+         alt="PeatECR"
+         style="height:36px;">
+  </a>
+
+  <a href="https://bsky.app/profile/bes-peatlandsgroup.bsky.social"
+     target="_blank" rel="noopener">
+    <img src="images/BES.jpg"
+         alt="PaWSIG"
+         style="height:36px;">
+  </a>
 </div>
+
 :::
 :::
 
