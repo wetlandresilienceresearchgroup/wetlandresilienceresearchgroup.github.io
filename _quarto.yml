@@ -1,9 +1,8 @@
 project:
   type: website
   output-dir: docs
-
 website:
-  site-url: https://wetlandresilienceresearchgroup.com
+  site-url: "https://wetlandresilienceresearchgroup.com"
   favicon: "images/logos/Dark blue text.png"
   navbar:
     logo: "images/logos/Dark blue text.png"
