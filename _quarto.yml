@@ -5,17 +5,17 @@ project:
 website:
   site-url: https://wetlandresilienceresearchgroup.github.io
   favicon: "images/logos/Dark blue text.png"
-  navbar:
-    logo: "images/logos/Dark blue text.png"
-    left:
-      - index.qmd
-      - Research.qmd
-      - People.qmd
-      - Publications.qmd
-      - News.qmd
-      - Opportunities.qmd
-      - Outreach and Presentations
-      - Contact.qmd
+ navbar:
+  left:
+    - index.qmd
+    - Research.qmd
+    - People.qmd
+    - Publications.qmd
+    - News.qmd
+    - Opportunities.qmd
+    - text: "Outreach and Presentations"
+      href: Outreach_and_Presentations.qmd
+    - Contact.qmd
       
 format:
   html:
