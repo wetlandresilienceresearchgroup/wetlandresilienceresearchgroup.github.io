@@ -4,14 +4,12 @@ template-partials:
   - title-block.html
 ---
 
-# What is peatland green leaf phenology?
+# **Contact**
 
-Plant phenology refers to the study of the timing and seasonal changes in plants' life cycle events. It involves observing and recording when plants bud, leaf out (become 'green'), flower, and fruit, as well as when they shed leaves or go dormant (turn brown).
+If you would like to get in touch about my research, projects, data, or potential collaborations, please feel free to contact me.
 
-![](./images/Image_3.png){fig-align="center"}
-The phenology of leaf traits (or green leaf phenology e.g., greenness, timing of leaf-out and senescence) are important drivers of terrestrial carbon cycling.
+I am particularly happy to hear from researchers, practitioners, students, and organisations interested in peatlands, wetlands, carbon dynamics, ecosystem functioning or related topics.
 
-We can use smartphone red-green-blue (RGB) photos to understand how these plants 'green up' over the summer, the timing of when they hit their maximum greenness and how they start to turn brown in the autumn.
+Email: davidson.scott_j [at] uqam.ca
 
-![](./images/Image_1.png){fig-align="center"}
 
