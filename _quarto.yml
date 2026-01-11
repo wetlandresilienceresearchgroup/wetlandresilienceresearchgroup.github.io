@@ -14,7 +14,7 @@ website:
       - Publications.qmd
       - Opportunities.qmd
       - Outreach and Presentations.qmd
-      - Contact.qmd
+      - contact.qmd
       
 format:
   html:
