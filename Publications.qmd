@@ -157,7 +157,8 @@ Arndt, K.A., Santos, M.J., Ustin, S., **Davidson, S.J.**, Stow, D., Oechel, W.C.
 
 Walker, D.A., Breen, A.L., Druckenmiller, L.A., Wirth, L.W., Fisher, W., Raynolds, M.K., Šibík, J., Walker, M.D., Hennekens, S., Boggs, K., Boucher, T., Buchhorn, M., Bütmann, H., Cooper, D.J., Daniëls, F.J.A., **Davidson, S.J.** et al. (2016). **The Alaska Arctic Vegetation Archive (AVA-AK).** *Phytocoenologia* [DOI: 10.1127/phyto/2016/0128]()
 
-### Book chapters
+
+## Book chapters
 
 Wilkinson, S.L., McCarter, C., Nwaishi, F., Noble, A., Muh, T. and **Davidson, S.J.** (2024). *Climate impacts of anthropogenic disturbances: understudied anthropogenic disturbances and peatland carbon cycling.* Peatlands and Climate Change (2nd Edition) International Peatland Society.
 
