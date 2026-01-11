@@ -9,19 +9,10 @@ template-partials:
 ## Research in the Wetland Resilience Research Group
 Our research sits at the intersection of ecology, environmental change, and ecosystem resilience, with a particular focus on peatlands and other wetland systems. We aim to understand how historical land use, climate change, and contemporary human pressures shape the structure, function, and recovery of these ecosystems. 
 
-By integrating field observations, long-term monitoring, and experimental approaches, our work explores how wetlands and peatlands respond to disturbance, how key processes such as carbon storage, hydrology, and vegetation dynamics are altered, and which mechanisms underpin resilience or collapse. Ultimately, this research seeks to identify the pathways through which wetlands can be protected, restored, and managed to sustain carbon sequestration, biodiversity and ecosystem services in a rapidly changing world.
+By integrating field observations, long-term monitoring, and experimental approaches, our work explores how wetlands and peatlands respond to disturbance, how key processes such as carbon storage, hydrology, and vegetation dynamics are altered, and which mechanisms underpin resilience or collapse. 
 
-**Response, recovery and resilience of wetlands to climate and land-use change**<br>
-<div style="display:flex; gap:20px; justify-content:left;">
-  <img src="images/fire_home_page.JPG" width="350">
-  <img src="images/fire_2_home_page.JPG" width="350">
-</div>
+Ultimately, our research seeks to identify the pathways through which wetlands can be protected, restored, and managed to sustain carbon sequestration, biodiversity and ecosystem services in a rapidly changing world.
 
-XXX
-
-
-**Wetlands and community science**
-XXX
 
 **Scott J. Davidson, PhD**<br>
 **Assistant Professor in Wetland Carbon Dynamics**<br>
@@ -32,3 +23,17 @@ Montréal QC<br>
 Canada<br> 
 H2X 1Y4<br>
 Email: davidson.scott_j(at)uqam.ca<br>
+
+<div style="display:flex; gap:20px; justify-content:left; align-items:left; margin-top:1.5rem;">
+  <a href="https://bsky.app/profile/wetlandresilienceresearchgroup.com" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"
+         alt="Bluesky"
+         style="height:36px; width:auto;">
+  </a>
+
+  <a href="https://www.linkedin.com/in/scott-j-davidson-8107076a/" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+         alt="LinkedIn"
+         style="height:36px; width:auto;">
+  </a>
+</div>

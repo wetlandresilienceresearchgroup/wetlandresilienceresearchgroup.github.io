@@ -8,11 +8,34 @@ template-partials:
 
 You can check out the WRRG's profiles here:
 
-- [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=pRZJ1kMAAAAJ&view_op=list_works&sortby=pubdate)
-- [ResearchGate profile](https://www.researchgate.net/profile/Scott-Davidson-9?ev=hdr_xprf)
-- [ORCiD profile](https://orcid.org/0000-0001-8327-2121)
+<div style="display:flex; gap:20px; justify-content:left; align-items:left; margin-top:1.5rem;">
+  <!-- Google Scholar (local file) -->
+  <a href="https://scholar.google.ca/citations?hl=en&user=pRZJ1kMAAAAJ&view_op=list_works&sortby=pubdate"
+     target="_blank" rel="noopener">
+    <img src="images/Google_Scholar_blue_logo.png"
+         alt="Google Scholar"
+         style="height:34px;">
+  </a>
 
-If you cannot access any of the papers below, feel free to email Scott at davidson.scott_j [at] uqam.ca and he shall send you the PDF
+  <!-- ResearchGate (external, already working) -->
+  <a href="https://www.researchgate.net/profile/Scott-Davidson-9?ev=hdr_xprf"
+     target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"
+         alt="ResearchGate"
+         style="height:34px;">
+  </a>
+
+  <!-- ORCID (external, already working) -->
+  <a href="https://orcid.org/0000-0001-8327-2121"
+     target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"
+         alt="ORCID"
+         style="height:34px;">
+  </a>
+</div>
+
+
+If you cannot access any of the papers below, feel free to email Scott at davidson.scott_j [at] uqam.ca and he will send you the PDF
 
 **2025**
 

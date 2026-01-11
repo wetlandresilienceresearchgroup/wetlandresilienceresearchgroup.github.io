@@ -1,0 +1,49 @@
+---
+title: "Outreach and Presentations"
+template-partials:
+  - title-block.html
+---
+
+# **Outreach and Presentations**
+
+If you have any questions about these presentations - please reach out to me by email; davidson.scott_j [at]uqam.ca
+
+
+### The Role of Peatlands as Natural Climate Solutions  
+*Geological Society of London Public Lecture, December 2024*
+
+::: {.text-center}
+[![](https://img.youtube.com/vi/EqnkhPku1QQ/hqdefault.jpg){width=720}](https://youtu.be/EqnkhPku1QQ)
+:::
+
+---
+
+### “No longer the Swamp of Sadness – an insight into the value of forested wetlands (swamps) as natural climate solutions”  
+*Wetland Knowledge Exchange webinar, January 2023*
+
+::: {.text-center}
+[![](https://vumbnail.com/792310686.jpg){width=720}](https://vimeo.com/792310686)
+:::
+
+---
+
+### Peatlands: The unsung heroes in the fight against climate change  
+*A-Level webinar, November 2021*
+
+::: {.text-center}
+[![](https://img.youtube.com/vi/TG8xzuDMJ3A/hqdefault.jpg){width=720}](https://youtu.be/TG8xzuDMJ3A)
+:::
+
+---
+
+### Drawing a line in the peat: Disturbances in Canadian peatlands  
+*RGS public lecture, February 2021*
+
+::: {.text-center}
+[![](https://img.youtube.com/vi/xKcOHyxypD4/hqdefault.jpg){width=720}](https://youtu.be/xKcOHyxypD4)
+:::
+
+---
+
+### The impact of linear disturbances on boreal peatlands  
+*Catchment and Wetland Sciences Re*

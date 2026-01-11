@@ -16,10 +16,24 @@ template-partials:
 Scott is an Assistant Professor in Wetland Carbon Dynamics in the Département des sciences biologiques at the Université du Québec à Montréal (UQAM). He completed his undergraduate degree in Geography at the University of Dundee, UK in 2012 and his MSc in Polar and Alpine Change at the University of Sheffield, UK in 2013. In 2017 he was awarded his PhD from the University of Sheffield, UK, looking at greenhouse gas emissions from arctic tundra landscapes in Alaska. He was a Lecturer in Ecosystem Resilience at the University of Plymouth between August 2021 and May 2025.
 
 His research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. His research combines field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems. He has nearly a decade’s experience working in northern latitude ecosystems in both Europe and North America. Since 2016, he has published >45 publications in a variety of high impact journals with >1500 citations to date. He is also an Adjunct Associate Professor at La Trobe University, Australia. He is a co-founder of both the Wet Woodland Research Network and PEAT: Peatland ECR Action Team, which connects early career peatland scientists globally to develop a diverse, inclusive, and supportive research community and is currently the co-Chair of the British Ecological Society’s Peatlands and Wetlands Special Interest Group.
+
+<div style="display:flex; gap:20px; justify-content:left; align-items:left; margin-top:1.5rem;">
+  <a href="https://bsky.app/profile/wetlandresilienceresearchgroup.com" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"
+         alt="Bluesky"
+         style="height:36px; width:auto;">
+  </a>
+
+  <a href="https://www.linkedin.com/in/scott-j-davidson-8107076a/" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+         alt="LinkedIn"
+         style="height:36px; width:auto;">
+  </a>
+</div>
 :::
 :::
 
-## Lead Supervision
+## Lead supervision
 
 ::: {.student-grid}
 
@@ -185,7 +199,7 @@ Lead supervisor: Dr Aleicia Holland (La Trobe University)
 ::: 
 :::
 
-## Technical Staff
+## Technical staff
 
 ::: {.student-grid}
 
