@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - _static/CNAME
+
 website:
   site-url: "https://wetlandresilienceresearchgroup.com"
   favicon: "images/logos/Dark blue text.png"
@@ -14,7 +17,7 @@ website:
       - Opportunities.qmd
       - Outreach and Presentations.qmd
       - contact.qmd
-      
+
 format:
   html:
     theme:
