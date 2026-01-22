@@ -8,6 +8,14 @@ template-partials:
 
 If you have any questions about these presentations - please reach out to me by email; davidson.scott_j [at]uqam.ca
 
+### Exploring Peatland Phenology: Tracking the Colour of Peatlands using Community Science
+*Wetland Knowledge Exchange virtual seminar, January 2026*
+
+::: {.text-center}
+[![](https://vimeo.com/1157257231){width=720}](https://youtu.be/EqnkhPku1QQ)
+:::
+
+---
 
 ### The Role of Peatlands as Natural Climate Solutions  
 *Geological Society of London Public Lecture, December 2024*
@@ -45,5 +53,3 @@ If you have any questions about these presentations - please reach out to me by 
 
 ---
 
-### The impact of linear disturbances on boreal peatlands  
-*Catchment and Wetland Sciences Re*
