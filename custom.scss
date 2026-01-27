@@ -2,18 +2,13 @@
 // Base document colors
 $primary: #FFFFFF;
 
-
 // Fonts
-
-
 
 /*-- scss:rules --*/
 
-
 // Variables
 
-
-//Navs
+// Navs
 
 /* =========================================================
    Square headshot – force size at the figure level
@@ -50,7 +45,6 @@ $primary: #FFFFFF;
   padding-bottom: 0;
   margin-bottom: 0.5rem;
 }
-
 
 /* =========================================================
    Student grid (3 per row)
@@ -90,6 +84,7 @@ $primary: #FFFFFF;
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+
 /* Degree type (PhD / MSc / MRes) */
 .student-degree {
   font-size: 0.9rem;
@@ -128,7 +123,7 @@ $primary: #FFFFFF;
 
 /* Navbar link colors */
 .navbar .nav-link {
-  color: #0b3d5c !important;   /* your normal link color */
+  color: #0b3d5c !important;
 }
 
 /* Hover state */
@@ -140,7 +135,7 @@ $primary: #FFFFFF;
 .navbar .nav-link.active,
 .navbar .nav-link[aria-current="page"] {
   color: #0b3d5c !important;
-  font-weight: 600;            /* optional: makes it stand out */
+  font-weight: 600;
 }
 
 .photo-collage {
@@ -151,7 +146,27 @@ $primary: #FFFFFF;
 
 .photo-collage img {
   width: 100%;
-  height: 260px;        /* fixed visual height */
-  object-fit: cover;   /* crop instead of distort */
-  border-radius: 6px;  /* optional: soft corners */
+  height: 260px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* =========================================================
+   Single-row photo strip (never wraps)
+   ========================================================= */
+
+.photo-row {
+  display: flex;
+  gap: 20px;
+  flex-wrap: nowrap !important;
+  overflow-x: auto;
+  align-items: stretch;
+}
+
+.photo-row img {
+  flex: 0 0 350px;
+  height: 230px;
+  object-fit: cover;
+  display: block;
+  max-width: none !important;
 }

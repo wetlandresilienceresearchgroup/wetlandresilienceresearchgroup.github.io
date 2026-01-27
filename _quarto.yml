@@ -19,6 +19,7 @@ website:
 
 format:
   html:
+    sanitize: false
     theme:
       - flatly
       - custom.scss
