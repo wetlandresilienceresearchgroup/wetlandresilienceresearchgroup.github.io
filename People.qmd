@@ -26,7 +26,9 @@ template-partials:
 :::
 :::
 
-My research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. I combine field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems. 
+My research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. I combine field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems.
+
+I am a member of both the [GRIL-UQAM](https://gril.uqam.ca/) and [GEOTOP](https://www.geotop.ca/en) research centres.
 
 I am currently the co-Chair of the British Ecological Society’s Peatlands and Wetlands Special Interest Group.
 
