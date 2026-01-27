@@ -1,10 +1,10 @@
 ---
-title: "Outreach and Presentations"
+title: "Outreach and presentations"
 template-partials:
   - title-block.html
 ---
 
-# **Outreach and Presentations**
+# **Outreach and presentations**
 
 If you have any questions about these presentations - please reach out to me by email; davidson.scott_j [at]uqam.ca
 
