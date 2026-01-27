@@ -16,7 +16,7 @@ website:
       - People.qmd
       - Publications.qmd
       - Opportunities.qmd
-      - Outreach and presentations.qmd
+      - outreach-presentations.qmd
       - contact.qmd
 
 format:
