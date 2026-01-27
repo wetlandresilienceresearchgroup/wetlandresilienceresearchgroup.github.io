@@ -23,7 +23,7 @@ Université du Québec à Montréal<br>
 Montréal QC<br>
 Canada<br> 
 H2X 1Y4<br>
-Email: davidson.scott_j(at)uqam.ca<br>
+Email: <davidson.scott_j@uqam.ca><br>
 
 <div style="display:flex; gap:20px; justify-content:left; align-items:left; margin-top:1.5rem;">
   <a href="https://bsky.app/profile/wetlandresilienceresearchgroup.com" target="_blank" rel="noopener">
