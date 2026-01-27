@@ -1,7 +1,5 @@
 ---
-title: "Outreach and presentations"
-template-partials:
-  - title-block.html
+title: "Outreach and Presentations"
 ---
 
 # **Outreach and presentations**
