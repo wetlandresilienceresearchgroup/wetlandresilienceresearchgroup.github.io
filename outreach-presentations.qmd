@@ -1,8 +1,24 @@
 ---
 title: "Outreach and presentations"
+execute:
+  eval: false
+template-partials:
+  - title-block.html
 ---
 
-If you have any questions about these presentations - please reach out to me by email; davidson.scott_j [at]uqam.ca
+# **Outreach**
+
+> **Davidson, S.J.** and Malhotra, A. (2025). **Harnessing technology and global collaboration to understand peatlands.** *The Conversation* [DOI: 10.64628/AAM.6ssfqeghv](https://doi.org/10.64628/AAM.6ssfqeghv)
+
+> **Davidson, S.J.** et Malhotra, A. (2025). **Les tourbières sont essentielles pour nos écosystèmes, mais elles sont peu considérées et peu étudiées — traduction française.** *The Conversation* [DOI: 10.64628/AAP.nfjvpyqyu](https://doi.org/10.64628/AAP.nfjvpyqyu)
+
+> **Davidson, S.J.** (2025). **Plot-scale vegetation phenology in peatlands: insights from the PeatPic Project.** *University of Waterloo* [URL: Plot-scale vegetation phenology](https://uwaterloo.ca/can-peat/news/plot-scale-vegetation-phenology-peatlands-insights-peatpic)
+
+> **Davidson, S.J.** (2024). **Peatlands are nature’s unsung climate warriors.** *New Statesman* [URL: https://www.newstatesman.com/spotlight/sustainability/biodiversity-nature/2024/06/peatlands-nature-biodiversity-wetlands-climate-change-university-plymouth](https://www.newstatesman.com/spotlight/sustainability/biodiversity-nature/2024/06/peatlands-nature-biodiversity-wetlands-climate-change-university-plymouth)
+
+# **Presentations**
+
+If you have any questions about these presentations - please reach out to me by email; davidson.scott_j@uqam.ca
 
 ### Exploring Peatland Phenology: Tracking the Colour of Peatlands using Community Science
 *Wetland Knowledge Exchange virtual seminar, January 2026*
