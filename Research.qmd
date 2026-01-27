@@ -13,9 +13,11 @@ With our work, we aim to **contribute to a better understanding of the complex f
 
 ## **Response, recovery and resilience of wetlands and peatlands to change**<br>
 
-<div style="display:flex; gap:20px; justify-content:left;">
-  <img src="images/fire_home_page.JPG" width="350">
-  <img src="images/fire_2_home_page.JPG" width="350">
+<div style="display:flex; gap:20px; align-items:stretch;">
+  <img src="images/fire_home_page.JPG"
+       style="width:350px; height:230px; object-fit:cover;">
+  <img src="images/burned_lines.JPG"
+       style="width:350px; height:230px; object-fit:cover;">
 </div>
 
 We are interested in the **vulnerability and resilience of peatland ecosystems to the impacts of wildfire**. This includes vegetation dynamics following wildfire and post-fire biogeochemical cycling and carbon fluxes.
