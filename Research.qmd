@@ -28,7 +28,7 @@ Similarly, we are interested in how **peatland and wetlands ecosystems function 
 
 <div style="display:flex; gap:20px; justify-content:left;">
   <img src="images/boreal_swamp_1.jpg" width="350">
-  <img src="images/wet_woodland_1.JPG" width="350">
+  <img src="images/wet_woodland_1.jpg" width="350">
 </div>
 
 We are interested in **improving our understanding of forested wetland (including swamps and wet woodland) ecosystem functioning globally**. These are incredibly important yet under-appreciated wetland ecosystems. Scott is also a co-founder of the Wet Woodlands Research Network. You can explore the network by clicking the logo below;
