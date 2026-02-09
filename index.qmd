@@ -4,6 +4,7 @@ template-partials:
   - title-block.html
 ---
 ![](images/WRRG_logo.png)
+
 ![](images/peatland_home_page.jpg)
 
 ## Wetland Resilience Research Group
