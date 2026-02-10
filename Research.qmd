@@ -5,11 +5,22 @@ template-partials:
 ---
 # Research
 
-Our research investigates **the resilience of wetland ecosystems to both climate change and disturbance regimes, as well as the roles these ecosystems can play as natural climate solutions**.
+Our research investigates the resilience of wetland ecosystems to both climate change and disturbance regimes, as well as the roles these ecosystems can play as natural climate solutions.
 
-We use a multi-scale approach, combining both **field research and laboratory analysis with remote sensing and modelling approaches** to better constrain **spatio-temporal dynamics of wetland ecosystems.**
+We use a multi-scale approach, combining both field research and laboratory analysis with remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems.
 
-With our work, we aim to **contribute to a better understanding of the complex feedbacks between ecosystem resilience and disturbance regimes under a rapidly changing climate.**
+With our work, we aim to contribute to a better understanding of the complex feedbacks between ecosystem resilience and disturbance regimes under a rapidly changing climate.
+
+## **Carbon dynamics in northern wetlands and peatlands**<br>
+
+<div style="display:flex; gap:20px; align-items:stretch;">
+  <img src="images/arctic_1.jpg"
+       style="width:350px; height:230px; object-fit:cover;">
+  <img src="images/arctic_2.jpg"
+       style="width:350px; height:230px; object-fit:cover;">
+</div>
+
+Our research advances understanding of carbon storage and exchange across northern ecosystems, including permafrost peatlands and Arctic coastal wetlands. We investigate carbon stocks, greenhouse gas fluxes, and lateral transport pathways, and evaluate how permafrost thaw, hydrologic change, and vegetation dynamics influence carbon stability and climate feedbacks.
 
 ## **Response, recovery and resilience of wetlands and peatlands to change**<br>
 
@@ -20,18 +31,18 @@ With our work, we aim to **contribute to a better understanding of the complex f
        style="width:350px; height:230px; object-fit:cover;">
 </div>
 
-We are interested in the **vulnerability and resilience of peatland ecosystems to the impacts of wildfire**. This includes vegetation dynamics following wildfire and post-fire biogeochemical cycling and carbon fluxes.
+We are interested in the vulnerability and resilience of peatland ecosystems to the impacts of wildfire. This includes vegetation dynamics following wildfire and post-fire biogeochemical cycling and carbon fluxes.
 
-Similarly, we are interested in how **peatland and wetlands ecosystems function following disturbance after human activities, including drainage, resource extraction and forestry practices.** This includes looking at soil characteristics, vegetation community dynamics and carbon fluxes.
+Similarly, we are interested in how peatland and wetlands ecosystems function following disturbance after human activities, including drainage, resource extraction and forestry practices. This includes looking at soil characteristics, vegetation community dynamics and carbon fluxes.
 
-## **Forested wetland carbon dynamics**<br>
+## **Forested wetland and marsh carbon dynamics**<br>
 
 <div style="display:flex; gap:20px; justify-content:left;">
   <img src="images/boreal_swamp_1.jpg" width="350">
   <img src="images/wet_woodland_1.jpg" width="350">
 </div>
 
-We are interested in **improving our understanding of forested wetland (including swamps and wet woodland) ecosystem functioning globally**. These are incredibly important yet under-appreciated wetland ecosystems. Scott is also a co-founder of the Wet Woodlands Research Network. You can explore the network by clicking the logo below;
+We are interested in improving our understanding of forested wetland (including swamps and wet woodland) and marsh ecosystem functioning globally. These are incredibly important yet under-appreciated wetland ecosystems. Scott is also a co-founder of the Wet Woodlands Research Network. You can explore the network by clicking the logo below;
 
 <div style="display:flex; gap:20px; justify-content:center; align-items:center; margin-top:1.5rem;">
   <a href="https://www.wetwoodlands.com/"
@@ -46,7 +57,7 @@ We are interested in **improving our understanding of forested wetland (includin
 
 ![](./images/phenology.jpg){fig-align="center" width=1000}
 
-We are focused on **advancing understanding of peatland and wetland phenology** (especially at the plot scale) and how these ecosystems change through time, particularly in response to climate variability and disturbance. By combining field observations, near-surface sensing, and satellite remote sensing, this work seeks to reveal when wetlands “green up,” reach peak productivity, and senesce, and how these dynamics regulate carbon exchange and ecosystem resilience. 
+We are focused on advancing understanding of peatland and wetland phenology (especially at the plot scale) and how these ecosystems change through time, particularly in response to climate variability and disturbance. By combining field observations, near-surface sensing, and satellite remote sensing, this work seeks to reveal when wetlands “green up,” reach peak productivity, and senesce, and how these dynamics regulate carbon exchange and ecosystem resilience. 
 
 We also have a community science project called the **Tracking the Colour of Peatlands** project , which uses photographs collected by members of the public to help us track the greenness patterns of peatlands globally. You can explore the project by clicking the logo below;
 
