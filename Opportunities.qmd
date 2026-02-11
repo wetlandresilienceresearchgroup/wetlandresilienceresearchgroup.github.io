@@ -17,6 +17,7 @@ Prospective graduate students and postdoctoral researchers are strongly encourag
 ## PhD Opportunities
 
 **Disturbance Impacts on swamp and forested peatlands (southern Québec)**
+
 <div style="
   display:flex;
   gap:20px;
@@ -33,12 +34,12 @@ Prospective graduate students and postdoctoral researchers are strongly encourag
  
 **Project overview**: This project aims to quantify how anthropogenic disturbances such as agriculture, forestry, and road construction affect carbon cycling and hydrology in swamp and forested peatlands of southern Québec. 
 
-**Research objectives**: 
-1. Quantify carbon flux responses to disturbance: measure CO₂ and CH₄ fluxes from vegetation, soils and trees across forested wetlands with contrasting land-use histories. 
+**Research objectives**:<br>
+1. Quantify carbon flux responses to disturbance: measure CO₂ and CH₄ fluxes from vegetation, soils and trees across forested wetlands with contrasting land-use histories.<br>
 
-2. Evaluate peat and microbial responses: collect peat/soil cores, roots, and analyze microbial communities to assess how disturbance alters belowground carbon storage and processes. 
+2. Evaluate peat and microbial responses: collect peat/soil cores, roots, and analyze microbial communities to assess how disturbance alters belowground carbon storage and processes.<br>
 
-3. Assess hydrological alterations: install hydrology loggers to monitor water table variability and link changes to carbon fluxes and dissolved organic carbon export
+3. Assess hydrological alterations: install hydrology loggers to monitor water table variability and link changes to carbon fluxes and dissolved organic carbon export.<br>
 
 ---
 
@@ -60,9 +61,9 @@ Prospective graduate students and postdoctoral researchers are strongly encourag
 
 **Aperçu du projet** : Ce projet vise à quantifier l’impact des perturbations humaines telles que l’agriculture, la foresterie et la construction de routes sur le cycle du carbone et l’hydrologie dans les marécages et les tourbières boisées du sud du Québec. 
 
-**Objectifs de la recherche** : 
-1. Quantifier les réponses des flux de carbone aux perturbations : mesurer les flux de CO₂ et de CH₄ provenant de la végétation et des sols dans les milieux humides boisés 
+**Objectifs de la recherche** :<br>
+1. Quantifier les réponses des flux de carbone aux perturbations : mesurer les flux de CO₂ et de CH₄ provenant de la végétation et des sols dans les milieux humides boisés.<br>
 
-2. Évaluer les réponses des sols tourbeux et des micro-organismes : prélever des carottes de tourbe/sol et des racines, et analyser les communautés microbiennes afin d’évaluer comment les perturbations modifient le stockage et les processus du carbone souterrain. 
+2. Évaluer les réponses des sols tourbeux et des micro-organismes : prélever des carottes de tourbe/sol et des racines, et analyser les communautés microbiennes afin d’évaluer comment les perturbations modifient le stockage et les processus du carbone souterrain.<br>
 
-3. Évaluer les modifications hydrologiques : installer des enregistreurs hydrologiques pour surveiller la variabilité du niveau phréatique et relier les changements aux flux de carbone et à l’exportation de carbone organique dissous.
+3. Évaluer les modifications hydrologiques : installer des enregistreurs hydrologiques pour surveiller la variabilité du niveau phréatique et relier les changements aux flux de carbone et à l’exportation de carbone organique dissous.<br>
