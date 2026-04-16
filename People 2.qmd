@@ -20,23 +20,40 @@ template-partials:
 | **Position** | Assistant Professor in Wetland Carbon Dynamics<br> Co-holder of the Quebec Research Chair on the study of **CAR**bon in wetlands as a nature-based solution to combat **CLI**mate change in **QUE**bec (**CARCLIQUE**) |
 | **Other positions** | Adjunct Professor at La Trobe University, Australia |
 | **Education** | University of Sheffield / San Diego State University, PhD<br> University of Sheffield, MSc<br> University of Dundee, MA (Hons)<br> |
-| **Social media** | [![](images/bluesky.svg){style="height:36px; width:auto; margin-right:18px; vertical-align:middle;"}](https://bsky.app/profile/wetlandresilienceresearchgroup.com) [![](images/linkedin.png){style="height:36px; width:auto; vertical-align:middle;"}](https://www.linkedin.com/in/scott-)
+| **Links** | [![](images/bluesky.svg){style="height:36px; width:auto; margin-right:18px; vertical-align:middle;"}](https://bsky.app/profile/wetlandresilienceresearchgroup.com) [![](images/linkedin.png){style="height:36px; width:auto; vertical-align:middle;"}](https://www.linkedin.com/in/scott-)
 
 
 :::
 :::
 
-My research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. I combine field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems.
+My research is focused on the resilience of peatland and wetland ecosystems to both climate change and disturbance regimes. I combine field research, laboratory analysis, remote sensing and modelling approaches to better constrain spatio-temporal dynamics of wetland ecosystems. 
 
-I am a member of both the [GRIL-UQAM](https://gril.uqam.ca/) and [GEOTOP](https://www.geotop.ca/en) research centres.
+I am a co-founder of both the Wet Woodland Research Network and PEAT: Peatland ECR Action Team. I am also currently the co-Chair of the British Ecological Society’s Peatlands and Wetlands Special Interest Group. You can click on the logos below to find more information.
 
-I am currently the co-Chair of the British Ecological Society’s [Peatlands and Wetlands Special Interest Group](https://www.britishecologicalsociety.org/content/peatlands-and-wetlands-group/).
+  <a href="https://www.wetwoodlands.com/"
+     target="_blank" rel="noopener">
+    <img src="images/WWRN_LogoLong.webp"
+         alt="WWRN"
+         style="height:50px;">
+  </a>
 
-I am also a co-founder of both the [PEAT: Peatland ECR Action Team](https://peatecr.com/) and the [Wet Woodland Research Network](https://www.wetwoodlands.com/).
+  <a href="https://peatecr.com/"
+     target="_blank" rel="noopener">
+    <img src="images/peatecr.png"
+         alt="PeatECR"
+         style="height:36px;">
+  </a>
 
-## Postdoctoral fellows
+  <a href="https://bsky.app/profile/bes-peatlandsgroup.bsky.social"
+     target="_blank" rel="noopener">
+    <img src="images/BES.jpg"
+         alt="PaWSIG"
+         style="height:36px;">
+  </a>
+</div>
 
-## Graduate students
+
+## Lead supervision
 
 ::: {.student-grid}
 
