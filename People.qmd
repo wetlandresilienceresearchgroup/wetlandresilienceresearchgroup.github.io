@@ -78,130 +78,6 @@ Co-supervisor: Dr Michelle Garneau (UQAM)
 :::
 :::
 
-## Co-supervision
-::: {.student-grid}
-
-::: {.student-card}
-![](images/Emily_Simpson.png){.student-photo fig-alt="Emily Simpson"}
-
-<div class="student-name">Emily Simpson</div>
-
-<div class="student-degree">PhD Student</div>
-
-<div class="student-project">
-Beavers and climate change mitigation in freshwater systems
-</div>
-
-<div class="student-meta">
-IAPETUS DTP Studentship (2023–2027)
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Alan Law (University of Stirling)
-</div>
-:::
-
-::: {.student-card}
-![](images/Izadora_Kervin.png){.student-photo fig-alt="Izadora Kervin"}
-
-<div class="student-name">Izadora Kervin</div>
-
-<div class="student-degree">PhD Student</div>
-
-<div class="student-project">
-Developing capacity in ex situ conservation for threatened bryophytes
-</div>
-
-<div class="student-meta">
-2023-2029 (part-time)
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Jennifer Rowntree (University of Plymouth)
-</div>
-::: 
-
-::: {.student-card}
-![](images/Crystal_Ahiable.png){.student-photo fig-alt="Crystal Ahiable"}
-
-<div class="student-name">Crystal Ahiable</div>
-
-<div class="student-degree">PhD Student</div>
-
-<div class="student-project">
-The forgotten forests: understanding the future of wet woodlands as carbon-dense ecosystems
-</div>
-
-<div class="student-meta">
-2023-2027
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Alice Milner (RHUL)
-</div>
-:::
-
-::: {.student-card}
-![](images/Dylan_Oliver.png){.student-photo fig-alt="Dylan Oliver"}
-
-<div class="student-name">Dylan Oliver</div>
-
-<div class="student-degree">PhD Student</div>
-
-<div class="student-project">
-Maximising ecosystem service provision from wet woodlands for policy and practice
-</div>
-
-<div class="student-meta">
-2025-2029
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Alice Milner (RHUL)
-</div>
-:::
-
-::: {.student-card}
-![](images/Justin_Yu.png){.student-photo fig-alt="Justin Yu"}
-
-<div class="student-name">Justin Yu</div>
-
-<div class="student-degree">MSc Student</div>
-
-<div class="student-project">
-Building a baseline of carbon stocks in boreal swamps in Alberta, Canada
-</div>
-
-<div class="student-meta">
-2024-2026
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Maria Strack (University of Waterloo)
-</div>
-:::
-
-::: {.student-card}
-![](images/Elly_Longley.png){.student-photo fig-alt="Elly Longley"}
-
-<div class="student-name">Elly Longley</div>
-
-<div class="student-degree">MSc Student</div>
-
-<div class="student-project">
-Carbon fluxes from intact and disturbed alpine peatlands (wildfire) across the Bogong High Plains, Australia
-</div>
-
-<div class="student-meta">
-2025-2027
-</div>
-
-<div class="student-meta">
-Lead supervisor: Dr Aleicia Holland (La Trobe University)
-</div>
-::: 
-:::
-
 ## Technical staff
 
 ::: {.student-grid}
@@ -216,6 +92,20 @@ Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dan
 Research coordinator of the Quebec Research Chair on the study of carbon in wetlands as a natural solution to climate change (CARCLIQUE)</div>
 :::
 :::
+
+## Co-supervision outside UQAM
+Emily Simpson (PhD student) - Beavers and climate change mitigation in freshwater systems - University of Stirling (Lead supervisor - Dr Alan Law) (2023-2027)
+
+Izadora Kervin (PhD student) - Developing capacity in ex situ conservation for threatened bryophytes - University of Plymouth (Lead supervisor - Dr Jenny Rowntree) (2023-2029 (Part-time))
+
+Crystal Ahiable (PhD student) - The forgotten forests: understanding the future of wet woodlands as carbon-dense ecosystems - RHUL (Lead supervisor - Dr Alice Milner) (2022-2026)
+
+Dylan Oliver (PhD student) - Maximising ecosystem service provision from wet woodlands for policy and practice - RHUL (Lead supervisor - Dr Alice Milner) (2025-2029)
+
+Justin Yu (MSc student) - Building a baseline of carbon stocks in boreal swamps in Alberta, Canada
+ - University of Waterloo (Lead supervisor - Dr Maria Strack) (2024-2026)
+ 
+Elly Longley (MSc student) - Carbon fluxes from intact and disturbed alpine peatlands (wildfire) across the Bogong High Plains, Australia - La Trobe University (Lead supervisor - Dr Aleicia Holland) (2024-2026)
 
 ## Completed students
 
