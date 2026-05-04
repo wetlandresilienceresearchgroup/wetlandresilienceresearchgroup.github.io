@@ -105,7 +105,7 @@ CARCLIQUE chair funded (2026–2030)
 
 
 ::: {.student-card}
-![](images/placeholder_male_student.png){.student-photo fig-alt="Renaud Serre"}
+![](images/Renaud_Serre.png){.student-photo fig-alt="Renaud Serre"}
 
 <div class="student-name">Renaud Serre</div>
 <div class="student-degree">PhD Student</div>
