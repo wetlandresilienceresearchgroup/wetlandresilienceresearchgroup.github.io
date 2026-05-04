@@ -154,8 +154,6 @@ CARBONIQUE funded (2026–2030)
 
 :::
 
-:::
-
 ## Technical staff
 
 ::: {.student-grid}
