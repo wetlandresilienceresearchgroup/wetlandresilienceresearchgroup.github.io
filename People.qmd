@@ -144,6 +144,10 @@ Co-supervisor: Dr Michelle Garneau (UQAM)
 <div class="student-name">Maya Couillard</div>
 <div class="student-degree">MSc Student</div>
 
+<div class="student-project">
+Carbon stocks and fluxes from a freshwater marsh in the St Lawrence Lowlands, QC
+</div>
+
 <div class="student-meta">
 CARBONIQUE funded (2026–2030)
 </div>
