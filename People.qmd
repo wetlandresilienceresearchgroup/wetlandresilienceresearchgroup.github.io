@@ -68,27 +68,6 @@ ARIES DTP Studentship (2023–2027)
 </div>
 :::
 
-
-::: {.student-card}
-![](images/Fred_Turmel.png){.student-photo fig-alt="Frédérique Turmel"}
-
-<div class="student-name">Frédérique Turmel</div>
-<div class="student-degree">MSc Student</div>
-
-<div class="student-project">
-Carbon stocks and fluxes of the Barachois de Malbaie salt marsh in Gaspésie, Eastern Canada
-</div>
-
-<div class="student-meta">
-MITACS funded (2024–2026)
-</div>
-
-<div class="student-meta">
-Co-supervisor: Dr Michelle Garneau (UQAM)
-</div>
-:::
-
-
 ::: {.student-card}
 ![](images/placeholder_female_student.png){.student-photo fig-alt="Chloé Giraud"}
 
@@ -140,6 +119,24 @@ Lead supervisor: Dr Beatrix Beisner (UQAM)
 </div>
 :::
 
+::: {.student-card}
+![](images/Fred_Turmel.png){.student-photo fig-alt="Frédérique Turmel"}
+
+<div class="student-name">Frédérique Turmel</div>
+<div class="student-degree">MSc Student</div>
+
+<div class="student-project">
+Carbon stocks and fluxes of the Barachois de Malbaie salt marsh in Gaspésie, Eastern Canada
+</div>
+
+<div class="student-meta">
+MITACS funded (2024–2026)
+</div>
+
+<div class="student-meta">
+Co-supervisor: Dr Michelle Garneau (UQAM)
+</div>
+:::
 
 ::: {.student-card}
 ![](images/Maya_Couillard.png){.student-photo fig-alt="Maya Couillard"}
