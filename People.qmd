@@ -37,17 +37,6 @@ I am also a co-founder of both the [PEAT: Peatland ECR Action Team](https://peat
 
 ## Postdoctoral fellows
 
-::: {.student-grid}
-
-::: {.student-card}
-![](images/placeholder_female_professional_postdoc.png){.student-photo fig-alt="Miranda Hunter"}
-
-<div class="student-name">Miranda Hunter</div>
-<div class="student-degree">Incoming Postdoctoral Fellow</div>
-:::
-
-:::
-
 
 ## Graduate students
 
