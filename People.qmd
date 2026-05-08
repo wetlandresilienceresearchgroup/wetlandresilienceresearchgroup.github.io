@@ -35,8 +35,42 @@ I am currently the co-Chair of the British Ecological Society’s [Peatlands and
 
 I am also a co-founder of both the [PEAT: Peatland ECR Action Team](https://peatecr.com/) and the [Wet Woodland Research Network](https://www.wetwoodlands.com/).
 
-## Postdoctoral fellows
 
+## Technical staff
+
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Leonie_Perrier.png){.student-photo fig-alt="Léonie Perrier"}
+
+<div class="student-name">Léonie Perrier</div>
+
+<div class="student-project">
+Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dans les milieux humides comme solution naturelle aux changements climatiques (CARCLIQUE)
+</div>
+:::
+
+:::
+
+## Postdoctoral fellows
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Miranda_Hunter.png){.student-photo fig-alt="Miranda Hunter"}
+
+<div class="student-name">Miranda Hunter</div>
+<div class="student-degree">Incoming Postdoctoral Fellow</div>
+
+<div class="student-project">
+Above- and belowground dynamics as drivers of peatland carbon cycling
+</div>
+
+<div class="student-meta">
+Funded through CARBONIQUE project
+</div>
+:::
+
+:::
 
 ## Graduate students
 
@@ -58,7 +92,7 @@ ARIES DTP Studentship (2023–2027)
 :::
 
 ::: {.student-card}
-![](images/placeholder_female_student.png){.student-photo fig-alt="Chloé Giraud"}
+![](images/Chloe_Giraud.png){.student-photo fig-alt="Chloé Giraud"}
 
 <div class="student-name">Chloé Giraud</div>
 <div class="student-degree">Incoming PhD Student</div>
@@ -144,23 +178,7 @@ CARBONIQUE funded (2026–2030)
 
 :::
 
-## Technical staff
-
-::: {.student-grid}
-
-::: {.student-card}
-![](images/Leonie_Perrier.png){.student-photo fig-alt="Léonie Perrier"}
-
-<div class="student-name">Léonie Perrier</div>
-
-<div class="student-project">
-Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dans les milieux humides comme solution naturelle aux changements climatiques (CARCLIQUE)
-
-Research coordinator of the Quebec Research Chair on the study of carbon in wetlands as a natural solution to climate change (CARCLIQUE)
-</div>
-:::
-
-:::
+## Undergraduate interns
 
 ## Co-supervision outside UQAM
 Emily Simpson (PhD student) - Beavers and climate change mitigation in freshwater systems - University of Stirling (Lead supervisor - Dr Alan Law - 2023-2027)
