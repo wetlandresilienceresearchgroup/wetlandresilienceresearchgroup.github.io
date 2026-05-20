@@ -1,0 +1,26 @@
+/* css styles */
+
+.navbar-logo {
+  max-height: 100px !important; /* Adjust the pixel value as needed */
+  /* Optionally, you can set an explicit height or width */
+  /* height: 100px !important; */
+  /* width: auto !important; */
+}
+/* People page layout */
+.person-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin-top: 0.75rem;
+}
+
+.person-photo {
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+  object-position: 50% 18%;
+}
+
+.person-row h2 {
+  margin-top: 0;
+}
