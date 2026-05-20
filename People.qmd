@@ -19,7 +19,7 @@ template-partials:
 |---|---|
 | **Pronouns** | He/Him |
 | **Email** | <davidson.scott_j@uqam.ca> |
-| **Position** | Assistant Professor in Wetland Carbon Dynamics<br> Co-holder of the Quebec Research Chair on the study of **CAR**bon in wetlands as a nature-based solution to combat **CLI**mate change in **QUE**bec (**CARCLIQUE**) |
+| **Position** | Co-titulaire de la Chaire de recherche québécoise portant sur l’étude du **CAR**bone dans les milieux humides comme solution fondée sur la nature pour lutter contre le changement **CLI**mati**QUE** (**CARCLIQUE**) |
 | **Other positions** | Adjunct Professor at La Trobe University, Australia |
 | **Education** | University of Sheffield / San Diego State University, PhD<br> University of Sheffield, MSc<br> University of Dundee, MA (Hons) |
 | **Social media** | [![](images/bluesky.svg){style="height:36px; width:auto; margin-right:18px; vertical-align:middle;"}](https://bsky.app/profile/wetlandresilienceresearchgroup.com) [![](images/linkedin.png){style="height:36px; width:auto; vertical-align:middle;"}](https://www.linkedin.com/in/scott-) |
