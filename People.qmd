@@ -53,6 +53,7 @@ Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dan
 :::
 
 ## Postdoctoral fellows
+
 ::: {.student-grid}
 
 ::: {.student-card}
@@ -102,7 +103,6 @@ CARCLIQUE chair funded (2026–2030)
 </div>
 :::
 
-
 ::: {.student-card}
 ![](images/placeholder_female_student.png){.student-photo fig-alt="Clara Hiel"}
 
@@ -114,7 +114,6 @@ CARCLIQUE chair funded (2026–2030)
 </div>
 :::
 
-
 ::: {.student-card}
 ![](images/Pierre_Betti.png){.student-photo fig-alt="Pierre Betti"}
 
@@ -125,7 +124,6 @@ CARCLIQUE chair funded (2026–2030)
 CARCLIQUE chair funded (2026–2030)
 </div>
 :::
-
 
 ::: {.student-card}
 ![](images/Renaud_Serre.png){.student-photo fig-alt="Renaud Serre"}
@@ -179,6 +177,23 @@ CARBONIQUE funded (2026–2028)
 :::
 
 ## Undergraduate interns
+
+::: {.student-grid}
+
+::: {.student-card}
+![](images/Joelle_Cormier.png){.student-photo fig-alt="Joëlle Cormier"}
+
+<div class="student-name">Joëlle Cormier</div>
+:::
+
+::: {.student-card}
+![](images/Camille_Thibaudeau.png){.student-photo fig-alt="Camille Thibaudeau"}
+
+<div class="student-name">Camille Thibaudeau</div>
+:::
+
+:::
+
 
 ## Co-supervision outside UQAM
 Emily Simpson (PhD student) - Beavers and climate change mitigation in freshwater systems - University of Stirling (Lead supervisor - Dr Alan Law - 2023-2027)
