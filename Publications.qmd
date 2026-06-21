@@ -39,7 +39,9 @@ If you cannot access any of the papers below, feel free to email Scott at <david
 
 ## **2026**
 
-Milner, A.M., McKeown, M.M., Ruwaimana, M. et al. (inc. **Davidson, S.J**) (2026) **Priority research questions in global peatland research**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03321-5](https://doi.org/10.1038/s43247-026-03321-5)
+Virkkala, A-M. et al. (inc. **Davidson, S.J.**) (2026) **ABCFlux v2: Arctic–boreal CO2 and CH4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems.** *Earth System Science Data* [DOI: 10.5194/essd-2025-585](https://doi.org/10.5194/essd-2025-585)
+
+Milner, A.M., McKeown, M.M., Ruwaimana, M. et al. (inc. **Davidson, S.J**) (2026) **Priority research questions in global peatland research**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03321-5]  (https://doi.org/10.1038/s43247-026-03321-5)
 
 Korsah, P., **Davidson, S.J.** and Strack, M. (2026) **Increased methane emissions from boreal peatlands following linear disturbances**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03273-w](https://doi.org/10.1038/s43247-026-03273-w)
 
@@ -55,9 +57,7 @@ Ivison, K., Little, K., Belcher, C.M., Crawford, A.J., **Davidson, S.J.**, Graha
 
 Hagan Brown, W., Gloor, E., Fyfe, R., Mackenzie, A.R., Harper, N.J., Ganderton, P., Hart, K., Curioni, G., Quick, S., **Davidson, S.J.**, Yetton, E., Diehl, J.L. and Fauset, S. (2025). **Elevated CO2 increases the canopy temperature of mature Quercus robur (Pedunculate Oak).** *Global Change Biology* [DOI: 10.1111/gcb.70565](https://doi.org/10.1111/gcb.70565)
 
-Virkkala, A-M. et al. (inc. **Davidson, S.J.**) (2025). Pre-print. **ABCFlux v2: Arctic–boreal CO2 and CH4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems.** *Earth System Science Data* [DOI: 10.5194/essd-2025-585](https://doi.org/10.5194/essd-2025-585)
-
-**Davidson, S.J.**, Malhotra, A., Jassey, V.E.J., Strack, M., Aitova, E., Anderson, R., Atkinson, R., Barel, J.M., Bird, M., Brehier, C., Donaldson-Selby, G., Duley, E., Eklof, J., de Eyto, E., Granath, G., Grant, A., Hartmann, A., Holland, A., Huth, V., Jones, C.P., Lee, S-C., Lopatin, J., Milner, A.M., Peacock, M., Peichl, M., Perez-Quezada, J.F., Perryman, C.R., Pickard, A., Rautakoski, H., Silvester, E., Virkkala, A-M. and Wegener, E. (2025). **The PeatPic Project: Predicting plot-scale green leaf phenology across peatlands.** *Environmental Research Letters* [DOI: 10.1088/1748-9326/ae0658](https://doi.org/10.1088/1748-9326/ae0658)
+**Davidson, S.J.**, Malhotra, A., Jassey, V.E.J., Strack, M., Aitova, E., Althuizen, I.H.J., Anderson, R., Atkinson, R., Barel, J.M., Bird, M., Brehier, C., Donaldson-Selby, G., Duley, E., Eklof, J., de Eyto, E., Granath, G., Grant, A., Hartmann, A., Holland, A., Huth, V., Jones, C.P., Lee, H., Lee, S-C., Lopatin, J., Milner, A.M., Peacock, M., Peichl, M., Perez-Quezada, J.F., Perryman, C.R., Pickard, A., Rautakoski, H., Silvester, E., Virkkala, A-M. and Wegener, E. (2025). **The PeatPic Project: Predicting plot-scale green leaf phenology across peatlands.** *Environmental Research Letters* [DOI: 10.1088/1748-9326/ae0658](https://doi.org/10.1088/1748-9326/ae0658)
 
 > **Davidson, S.J.** and Malhotra, A. (2025). **Harnessing technology and global collaboration to understand peatlands.** *The Conversation* [DOI: 10.64628/AAM.6ssfqeghv](https://doi.org/10.64628/AAM.6ssfqeghv)
 
