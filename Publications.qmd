@@ -41,7 +41,7 @@ If you cannot access any of the papers below, feel free to email Scott at <david
 
 Virkkala, A-M. et al. (inc. **Davidson, S.J.**) (2026) **ABCFlux v2: Arctic–boreal CO2 and CH4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems.** *Earth System Science Data* [DOI: 10.5194/essd-2025-585](https://doi.org/10.5194/essd-2025-585)
 
-Milner, A.M., McKeown, M.M., Ruwaimana, M. et al. (inc. **Davidson, S.J**) (2026) **Priority research questions in global peatland research**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03321-5]  (https://doi.org/10.1038/s43247-026-03321-5)
+Milner, A.M., McKeown, M.M., Ruwaimana, M. et al. (inc. **Davidson, S.J**) (2026) **Priority research questions in global peatland research**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03321-5](https://doi.org/10.1038/s43247-026-03321-5)
 
 Korsah, P., **Davidson, S.J.** and Strack, M. (2026) **Increased methane emissions from boreal peatlands following linear disturbances**. *Communications Earth & Environment* [DOI: 10.1038/s43247-026-03273-w](https://doi.org/10.1038/s43247-026-03273-w)
 
