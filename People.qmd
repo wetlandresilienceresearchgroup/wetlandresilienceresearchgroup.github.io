@@ -60,14 +60,14 @@ Coordinatrice de recherche de la Chaire du Québec sur l’étude du carbone dan
 ![](images/Miranda_Hunter.png){.student-photo fig-alt="Miranda Hunter"}
 
 <div class="student-name">Miranda Hunter</div>
-<div class="student-degree">Incoming Postdoctoral Fellow</div>
+<div class="student-degree">Postdoctoral Fellow</div>
 
 <div class="student-project">
 Above- and belowground dynamics as drivers of peatland carbon cycling
 </div>
 
 <div class="student-meta">
-Funded through CARBONIQUE project
+Funded through [CARBONIQUE](https://carbonique.ca/en/) project
 </div>
 :::
 
@@ -99,7 +99,7 @@ ARIES DTP Studentship (2023–2027)
 <div class="student-degree">Incoming PhD Student</div>
 
 <div class="student-meta">
-CARCLIQUE chair funded (2026–2030)
+[CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
 </div>
 :::
 
@@ -110,7 +110,7 @@ CARCLIQUE chair funded (2026–2030)
 <div class="student-degree">Incoming PhD Student</div>
 
 <div class="student-meta">
-CARCLIQUE chair funded (2026–2030)
+[CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
 </div>
 :::
 
@@ -121,7 +121,7 @@ CARCLIQUE chair funded (2026–2030)
 <div class="student-degree">Incoming PhD Student</div>
 
 <div class="student-meta">
-CARCLIQUE chair funded (2026–2030)
+[CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
 </div>
 :::
 
@@ -170,9 +170,10 @@ Carbon stocks and fluxes from a freshwater marsh in the St Lawrence Lowlands, QC
 </div>
 
 <div class="student-meta">
-CARBONIQUE funded (2026–2028)
+[CARBONIQUE](https://carbonique.ca/en/) funded (2026–2028)
 </div>
 :::
+
 
 :::
 
