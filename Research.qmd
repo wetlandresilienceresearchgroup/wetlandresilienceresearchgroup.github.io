@@ -61,7 +61,7 @@ We are interested in improving our understanding of forested wetland (including 
 
 We are focused on advancing understanding of peatland and wetland phenology (especially at the plot scale) and how these ecosystems change through time, particularly in response to climate variability and disturbance. By combining field observations, near-surface sensing, and satellite remote sensing, this work seeks to reveal when wetlands “green up,” reach peak productivity, and senesce, and how these dynamics regulate carbon exchange and ecosystem resilience. 
 
-WWe also have two community science projects, **Tracking the Colour of Peatlands** and **Suivre la couleur des milieux humides au Québec**, which use photographs collected by members of the public to help us track greenness patterns in peatlands and wetlands. You can explore the projects by clicking the logos below.
+We also have two community science projects, **Tracking the Colour of Peatlands** and **Suivre la couleur des milieux humides au Québec**, which use photographs collected by members of the public to help us track greenness patterns in peatlands and wetlands. You can explore the projects by clicking the logos below.
 
 <div style="display:flex; gap:30px; justify-content:center; align-items:center; margin-top:1.5rem;">
   
