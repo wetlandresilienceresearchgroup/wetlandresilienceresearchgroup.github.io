@@ -96,7 +96,7 @@ ARIES DTP Studentship (2023–2027)
 ![](images/Chloe_Giraud.png){.student-photo fig-alt="Chloé Giraud"}
 
 <div class="student-name">Chloé Giraud</div>
-<div class="student-degree">Incoming PhD Student</div>
+<div class="student-degree">PhD Student</div>
 
 <div class="student-meta">
 [CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
@@ -107,7 +107,7 @@ ARIES DTP Studentship (2023–2027)
 ![](images/placeholder_female_student.png){.student-photo fig-alt="Clara Hiel"}
 
 <div class="student-name">Clara Hiel</div>
-<div class="student-degree">Incoming PhD Student</div>
+<div class="student-degree">PhD Student</div>
 
 <div class="student-meta">
 [CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
@@ -118,7 +118,7 @@ ARIES DTP Studentship (2023–2027)
 ![](images/Pierre_Betti.png){.student-photo fig-alt="Pierre Betti"}
 
 <div class="student-name">Pierre Betti</div>
-<div class="student-degree">Incoming PhD Student</div>
+<div class="student-degree">PhD Student</div>
 
 <div class="student-meta">
 [CARCLIQUE](https://carclique.uqam.ca/) Research chair funded (2026–2030)
