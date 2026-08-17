@@ -22,6 +22,8 @@ With our work, we aim to contribute to a better understanding of the complex fee
 
 Our research advances understanding of carbon storage and exchange across northern ecosystems, including permafrost peatlands and Arctic coastal wetlands. We investigate carbon stocks, greenhouse gas fluxes, and lateral transport pathways, and evaluate how permafrost thaw, hydrologic change, and vegetation dynamics influence carbon stability and climate feedbacks.
 
+Scott is a co-investigator on [CARBONIQUE](https://carbonique.ca/en/), a five-year research programme investigating carbon cycling across Québec wetlands. The project quantifies carbon balances across natural and disturbed wetlands to better understand their role in climate-change mitigation and inform wetland conservation and management. CARBONIQUE is jointly funded by Québec’s MELCCFP through the 2030 Green Economy PLan, an NSERC Alliance – Advantage grant, and Ducks Unlimited Canada.
+
 ## **Response, recovery and resilience of wetlands and peatlands to change**<br>
 
 <div style="display:flex; gap:20px; align-items:stretch;">
@@ -31,9 +33,9 @@ Our research advances understanding of carbon storage and exchange across northe
        style="width:350px; height:230px; object-fit:cover;">
 </div>
 
-We are interested in the vulnerability and resilience of peatland ecosystems to the impacts of wildfire. This includes vegetation dynamics following wildfire and post-fire biogeochemical cycling and carbon fluxes.
+We are interested in the vulnerability and resilience of peatland ecosystems to the impacts of wildfire. This includes vegetation dynamics following wildfire and post-fire biogeochemical cycling and carbon fluxes. This research is supported by an NSERC Discovery Grant awarded to Scott.
 
-Similarly, we are interested in how peatland and wetlands ecosystems function following disturbance after human activities, including drainage, resource extraction and forestry practices. This includes looking at soil characteristics, vegetation community dynamics and carbon fluxes.
+Similarly, we are interested in how peatland and wetland ecosystems function following disturbance from human activities, including drainage, resource extraction and forestry practices. This includes examining soil characteristics, vegetation community dynamics and carbon fluxes.
 
 ## **Forested wetland and marsh carbon dynamics**<br>
 
@@ -59,14 +61,22 @@ We are interested in improving our understanding of forested wetland (including 
 
 We are focused on advancing understanding of peatland and wetland phenology (especially at the plot scale) and how these ecosystems change through time, particularly in response to climate variability and disturbance. By combining field observations, near-surface sensing, and satellite remote sensing, this work seeks to reveal when wetlands “green up,” reach peak productivity, and senesce, and how these dynamics regulate carbon exchange and ecosystem resilience. 
 
-We also have a community science project called the **Tracking the Colour of Peatlands** project , which uses photographs collected by members of the public to help us track the greenness patterns of peatlands globally. You can explore the project by clicking the logo below;
+WWe also have two community science projects, **Tracking the Colour of Peatlands** and **Suivre la couleur des milieux humides au Québec**, which use photographs collected by members of the public to help us track greenness patterns in peatlands and wetlands. You can explore the projects by clicking the logos below.
 
-<div style="display:flex; gap:20px; justify-content:center; align-items:center; margin-top:1.5rem;">
+<div style="display:flex; gap:30px; justify-content:center; align-items:center; margin-top:1.5rem;">
+  
   <a href="https://peatcolours.github.io/"
      target="_blank" rel="noopener">
     <img src="images/tracking-the-colour-of-peatlands-1.jpg"
          alt="PeatColours"
          style="height:250px;">
   </a>
-</div>
 
+  <a href="https://peatcolours.github.io/quebec.html"
+     target="_blank" rel="noopener">
+    <img src="images/French_logo_Quebec.png"
+         alt="CouleursMilieuxHumides"
+         style="height:250px;">
+  </a>
+
+</div>
