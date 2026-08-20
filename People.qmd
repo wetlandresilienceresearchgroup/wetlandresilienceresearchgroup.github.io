@@ -104,7 +104,7 @@ ARIES DTP Studentship (2023–2027)
 :::
 
 ::: {.student-card}
-![](images/placeholder_female_student.png){.student-photo fig-alt="Clara Hiel"}
+![](images/Clara_Hiel.png){.student-photo fig-alt="Clara Hiel"}
 
 <div class="student-name">Clara Hiel</div>
 <div class="student-degree">PhD Student</div>
